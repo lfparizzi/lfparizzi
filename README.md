@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**lfparizzi/lfparizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <b>👨🏻‍💻 Hello there, I'm Luiz Fernando Parizzi! <b>
 Currently, I'm a Science Computer student and intend to learn and master new technologies.
 
