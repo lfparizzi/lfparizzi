@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Hello there, I'm Luiz Fernando Parizzi!
 Currently, I'm a Science Computer student and intend to learn and master new technologies.
 
-### 🔗 My links and contact:
+### 🔗 My links and Contact:
 
 <a href="https://wa.link/t78w1b" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact me on WhatsApp"></a> <a href="https://www.linkedin.com/in/luiz-fernando-parizzi/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="This is my LinkedIn profile"></a></a> <a href="https://stackoverflow.com/users/14955407/luiz-fernando-parizzi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a> <a href="https://discordapp.com/users/141905504241713152" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="This is my Discord profile">
 
@@ -12,3 +12,4 @@ Currently, I'm a Science Computer student and intend to learn and master new tec
 ### ✍ Studying today:
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Development">
+<!-- Currently, the process to open My links and Cotact badges in another tab seems not work in GitHub -->
