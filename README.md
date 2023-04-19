@@ -11,7 +11,7 @@ Currently, I'm a Science Computer student and intend to learn and master new tec
 
 ### ✍ Studying today:
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Development">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Kali Linux"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Development">
 
 <!-- Glad you are here! This is a signal that you like what you've seen. If you are trying to create you own portfolio, fell free to use my ideas as an inspiration.
 If you are hiring developers, fell free to mensage me on WhatsApp, check my LinkedIn (I have a english profile translated by myself) or even Facebook "Fernando Parizzi".
