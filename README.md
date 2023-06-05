@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Hello there, I'm Luiz Fernando Parizzi!
+# 👨🏻‍💻 Hello there, I'm Fernando!
 Currently, I'm a Science Computer student and intend to learn and master new technologies.
 
 ### 🔗 My links and Contact:
