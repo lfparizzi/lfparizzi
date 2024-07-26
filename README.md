@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Hello there, I'm Fernando!
-Currently, I'm a Science Computer student and intend to learn and master new technologies.
+Bachelor of Computer Science, learning and mastering new technologies.
 
 ### 🔗 My links and Contact:
 
