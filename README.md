@@ -1,9 +1,5 @@
-# 👨🏻‍💻 Hello there, I'm Fernando!
+# 👨🏻‍💻 Hello there!
 Bachelor of Computer Science, learning and mastering new technologies.
-
-### 🔗 My links and Contact:
-
-<a href="https://www.linkedin.com/in/luiz-fernando-parizzi/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="This is my LinkedIn profile"></a></a>
 
 ### 🚀 My skills:
 
