@@ -2,12 +2,16 @@
 Bachelor of Computer Science, learning and mastering new technologies.
 
 ### 🚀 My skills:
+- Pentesting
+- Cybersecurity
+- Vulnerability Assessment
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html 5"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Css 3"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C language"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python Language"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"> <img src="https://img.shields.io/badge/oracle_Sql-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle Sql">
+### ✅ Certifications:
+- Net+ - CompTia
+- OSCP - OffSec
 
 ### ✍ Studying today:
-
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Kali Linux"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Development">
+- OSCE
 
 <!-- Glad you are here! This is a signal that you like what you've seen. If you are trying to create you own portfolio, fell free to use my ideas as an inspiration.
 If you are hiring developers, fell free to mensage me on WhatsApp, check my LinkedIn (I have a english profile translated by myself) or even Facebook "Fernando Parizzi".
