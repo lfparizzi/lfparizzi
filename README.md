@@ -13,4 +13,4 @@ Bachelor of Computer Science, learning and mastering new technologies.
 ### ✍ Studying today:
 - OSCE
 
-<!-- Glad you are here! This is a signal that you like what you've seen. check my LinkedIn (I have a english profile translated by myself) "Fernando Parizzi". -->
+<!-- Glad you are here! This is a signal that you like what you've seen. Check my LinkedIn (I have a english profile too) "Fernando Parizzi". -->
